@@ -1,4 +1,4 @@
 # profiles
 My profiles for Linux.
 
-![](/bash/readme)
+![](/bash/readme.md)
