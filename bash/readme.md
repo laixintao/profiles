@@ -2,6 +2,7 @@
 ## bashrc 和 profile 区别
 
 hell进程时，其读取环境设定档有三步
+
 1. 首先读入的是全局环境变量设定档/etc/profile，然后根据其内容读取额外的设定的文档，如
 /etc/profile.d和/etc/inputrcc
 2. 然后根据不同使用者帐号，去其家目录读取~/.bash_profile，如果这读取不了就读取~/.bash_login，这个也读取不了才会读取
